@@ -4,15 +4,11 @@ layout: home
 
 hero:
   name: "MailBaker"
-  text: "NoCode email framework"
-  tagline: My great project tagline
+  text: "Build responsive email templates confidently"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Get started
+      link: /docs/introduction
 
 features:
   - title: Feature A
